@@ -4,6 +4,8 @@ Designed an interactive Power BI dashboard to analyze sales data, identify key t
 Analyze historical sales data to extract valuable business insights.
 Apply time series analysis to understand trends and seasonal patterns.
 Enhance business performance through data-driven decision-making.
+*Tools Used*: 
+Power Bi
 # Key Learnings: 
 Through this project, I developed expertise in data analysis techniques to extract meaningful insights, applied time series analysis to identify trends and seasonality, and leveraged forecasting models to predict future sales. Additionally, I gained experience in creating interactive Power BI dashboards to effectively visualize and communicate findings using different charts. This project also strengthened my ability to generate actionable business insights and use data-driven strategies to optimize sales and profitability.
 # Conclusion
